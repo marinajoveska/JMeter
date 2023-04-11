@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1681077624683,473,HTTP Request-Home,200,OK,Thread Group 1-1,text,true,,529426,256,1,1,https://www.vrabotuvanje.com.mk/,110,0,66
+1681077624683,110,HTTP Request-Home-0,302,Found,Thread Group 1-1,text,true,,457,128,1,1,http://www.vrabotuvanje.com.mk/,110,0,66
+1681077624795,361,HTTP Request-Home-1,200,OK,Thread Group 1-1,text,true,,528969,128,1,1,https://www.vrabotuvanje.com.mk/,157,0,108
+1681077625157,111,HTTP Request-Vesti,200,OK,Thread Group 1-1,text,true,,72438,268,1,1,https://www.vrabotuvanje.com.mk/Vesti/,42,0,0
+1681077625157,42,HTTP Request-Vesti-0,302,Found,Thread Group 1-1,text,true,,469,134,1,1,http://www.vrabotuvanje.com.mk/Vesti/,42,0,0
+1681077625199,69,HTTP Request-Vesti-1,200,OK,Thread Group 1-1,text,true,,71969,134,1,1,https://www.vrabotuvanje.com.mk/Vesti/,55,0,0
+1681077625269,122,HTTP Request-Soveti,200,OK,Thread Group 1-1,text,true,,59077,270,1,1,https://www.vrabotuvanje.com.mk/Soveti/,44,0,0
+1681077625269,44,HTTP Request-Soveti-0,302,Found,Thread Group 1-1,text,true,,471,135,1,1,http://www.vrabotuvanje.com.mk/Soveti/,44,0,0
+1681077625313,78,HTTP Request-Soveti-1,200,OK,Thread Group 1-1,text,true,,58606,135,1,1,https://www.vrabotuvanje.com.mk/Soveti/,65,0,0
